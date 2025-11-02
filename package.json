@@ -12,6 +12,6 @@
   "dependencies": {},
   "devDependencies": {},
   "keywords": ["clean-code", "code-quality", "analyzer", "command-line-tool"],
-  "author": "Maintainer <maintainer@example.com>",
+  "author": "Maintainer <maintainer@clean-code-optimizer.com>",
   "license": "MIT"
 }
