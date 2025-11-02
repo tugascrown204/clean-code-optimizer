@@ -3,7 +3,7 @@ const path = require('path');
 
 const analyzeCode = (projectPath) => {
     // Logic for analyzing code and detecting anti-patterns
-    console.log(`Analyzing project at: ${projectPath}`);
+    console.log(`Analyzing project at path: ${projectPath}`);
 };
 
 const main = () => {
